@@ -1,0 +1,43 @@
+.title {
+    font-weight: 700;
+}
+
+.title-first-letter {
+    font-size: 80px;
+    color: rgb(230, 52, 52);
+}
+
+.tilte-letter {
+    color: rgb(230, 52, 52);
+    font-size: 40px;
+}
+
+.navbar-link {
+    font-size: 20px;
+    font-weight: 500;
+    /* margin-top: 18px; */
+}
+
+/* .navbar-link a:hover {
+    background-color: salmon;
+} */
+
+.manage-items {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.add-items {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.my-items {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.sign-out {
+    font-size: 18px;
+    font-weight: 500;
+}
