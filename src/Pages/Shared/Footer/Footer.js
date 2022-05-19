@@ -9,7 +9,7 @@ const Footer = () => {
     return (
         <div className='footer-container'>
             <footer className='mt-5 text-center'>
-                <h3 className='pt-4'><FontAwesomeIcon className='pe-2' icon={faCopyright}></FontAwesomeIcon><small>All Right Reserved By Ariful Islam-{year}</small></h3>
+                <h3 className='pt-4'><FontAwesomeIcon className='pe-2' icon={faCopyright}></FontAwesomeIcon><small>All Right Reserved By Ahatasam Siam-{year}</small></h3>
             </footer>
         </div>
 

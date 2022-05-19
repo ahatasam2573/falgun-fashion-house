@@ -8,7 +8,7 @@ const InventoryItem = ({ item }) => {
     const navigate = useNavigate();
 
     const handleNavigateToItems = (id) => {
-        navigate(/items/${ id });
+        navigate(`/items/${id}`);
     }
 
     return (

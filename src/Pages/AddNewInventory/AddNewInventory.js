@@ -6,7 +6,7 @@ const AddNewInventory = () => {
     const { register, handleSubmit } = useForm();
     const navigate = useNavigate();
     const onSubmit = data => {
-        const url = `https://sleepy-everglades-51277.herokuapp.com/items`;
+        const url = `https://polar-escarpment-57934.herokuapp.com/items`;
         fetch(url, {
             method: 'POST',
             headers: {

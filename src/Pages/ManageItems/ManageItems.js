@@ -19,7 +19,7 @@ const ManageItems = () => {
     const handleDelete = id => {
         const proceed = window.confirm('Are you sure delete this?');
         if (proceed) {
-            const url = `https://sleepy-everglades-51277.herokuapp.com/items/${id}`;
+            const url = `https://polar-escarpment-57934.herokuapp.com/items/${id}`;
             fetch(url, {
                 method: 'DELETE'
             })

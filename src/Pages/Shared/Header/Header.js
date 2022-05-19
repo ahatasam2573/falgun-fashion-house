@@ -33,7 +33,7 @@ const Header = () => {
             <Navbar collapseOnSelect sticky='top' expand="lg" bg="info" variant="dark">
                 <Container>
                     <div className='title'>
-                        <Navbar.Brand href="/home"><span className='title-first-letter'>Z</span><span className='tilte-letter'>ARA FASHION HOUSE</span></Navbar.Brand>
+                        <Navbar.Brand href="/home"><span className='title-first-letter'>F</span><span className='tilte-letter'>ALGUN FASHION HOUSE</span></Navbar.Brand>
                     </div>
                     <div>
                         <Nav className="me-auto navbar-link">
